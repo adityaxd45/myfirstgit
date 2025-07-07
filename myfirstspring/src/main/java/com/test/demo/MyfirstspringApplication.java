@@ -10,6 +10,8 @@ public class MyfirstspringApplication {
 		SpringApplication.run(MyfirstspringApplication.class, args);
 		
 		System.out.println("hello world");
+		
+	    System.out.println("modified statement for git commit check");
 	}
 
 }
